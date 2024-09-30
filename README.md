@@ -18,7 +18,7 @@ pip install -r requirements.txt
 jupyter notebook ContributorsBehaviorAnalysis.ipynb
 ```
 
-## Cite this paper
+## Citation
 
 ```bibtex
 @inproceedings{10.1145/3524491.3527307,
